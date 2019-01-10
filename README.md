@@ -3,5 +3,5 @@
 
 ## howto 
 1. pip install -r requirements.txt
-2. docker run -p 27017:27017
+2. docker run -p 27017:27017 mongo
 3. python app.py
